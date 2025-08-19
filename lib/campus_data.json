@@ -1,0 +1,26 @@
+{
+  "locations": [
+    {"name": "The Great Hall", "lat": 5.6515, "lon": -0.1872, "tags": ["hall", "ceremony", "events", "landmark"]},
+    {"name": "Balme Library", "lat": 5.6512, "lon": -0.1865, "tags": ["library", "study", "research", "academic"]},
+    {"name": "Athletic Oval", "lat": 5.6495, "lon": -0.1858, "tags": ["sports", "athletics", "track", "field"]},
+    {"name": "Akuafo Hall", "lat": 5.6518, "lon": -0.1885, "tags": ["residence", "hostel", "accommodation", "students"]},
+    {"name": "Jubilee Hall", "lat": 5.6505, "lon": -0.1890, "tags": ["residence", "hostel", "accommodation", "students"]},
+    {"name": "Bush Canteen", "lat": 5.6508, "lon": -0.1875, "tags": ["food", "canteen", "dining", "restaurant"]},
+    {"name": "CS Department", "lat": 5.6520, "lon": -0.1868, "tags": ["academic", "computer science", "department", "education"]}
+  ],
+  "paths": [
+    {"from": "The Great Hall", "to": "Balme Library", "distance": 120, "time": 1.5},
+    {"from": "The Great Hall", "to": "CS Department", "distance": 80, "time": 1.0},
+    {"from": "The Great Hall", "to": "Akuafo Hall", "distance": 200, "time": 2.5},
+    {"from": "Balme Library", "to": "Athletic Oval", "distance": 180, "time": 2.0},
+    {"from": "Balme Library", "to": "CS Department", "distance": 100, "time": 1.2},
+    {"from": "Athletic Oval", "to": "Bush Canteen", "distance": 150, "time": 1.8},
+    {"from": "Athletic Oval", "to": "Jubilee Hall", "distance": 220, "time": 2.8},
+    {"from": "Akuafo Hall", "to": "Bush Canteen", "distance": 140, "time": 1.7},
+    {"from": "Akuafo Hall", "to": "Jubilee Hall", "distance": 180, "time": 2.2},
+    {"from": "Bush Canteen", "to": "CS Department", "distance": 160, "time": 2.0},
+    {"from": "Bush Canteen", "to": "Balme Library", "distance": 130, "time": 1.6},
+    {"from": "Jubilee Hall", "to": "Bush Canteen", "distance": 170, "time": 2.1},
+    {"from": "CS Department", "to": "Akuafo Hall", "distance": 190, "time": 2.3}
+  ]
+}

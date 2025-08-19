@@ -1,0 +1,13 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "UGNavigateGUI",
+            "request": "launch",
+            "mainClass": "UGNavigateGUI",
+            "vmArgs": "--module-path \"H:/DCIT 204 Project/javafx-sdk-24.0.2/lib\" --add-modules javafx.controls,javafx.fxml",
+            "projectName": "DCIT 204 Project_8e0ab0d6"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "java.project.sourcePaths": [
+        "src"
+    ],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": {
+        "include": [
+            "h:\\DCIT 204 Project\\javafx-sdk-24.0.2\\lib\\jfx.incubator.input.jar",
+            "h:\\DCIT 204 Project\\javafx-sdk-24.0.2\\lib\\jfx.incubator.richtext.jar",
+            "h:\\DCIT 204 Project\\javafx-sdk-24.0.2\\lib\\javafx.fxml.jar",
+            "h:\\DCIT 204 Project\\javafx-sdk-24.0.2\\lib\\javafx.web.jar",
+            "h:\\DCIT 204 Project\\javafx-sdk-24.0.2\\lib\\javafx.swing.jar",
+            "h:\\DCIT 204 Project\\lib\\gson-2.10.1.jar",
+            "h:\\DCIT 204 Project\\javafx-sdk-24.0.2\\lib\\javafx-swt.jar",
+            "h:\\DCIT 204 Project\\javafx-sdk-24.0.2\\lib\\javafx.base.jar",
+            "h:\\DCIT 204 Project\\javafx-sdk-24.0.2\\lib\\javafx.media.jar",
+            "h:\\DCIT 204 Project\\javafx-sdk-24.0.2\\lib\\javafx.controls.jar",
+            "h:\\DCIT 204 Project\\javafx-sdk-24.0.2\\lib\\javafx.graphics.jar",
+            "h:\\DCIT 204 Project\\javafx-sdk-24.0.2\\lib\\jdk.jsobject.jar"
+        ],
+        "exclude": [
+            "h:\\JAVA DATA\\Java\\javafx-sdk-24.0.2\\lib\\javafx-swt.jar",
+            "h:\\JAVA DATA\\Java\\javafx-sdk-24.0.2\\lib\\javafx.base.jar",
+            "h:\\JAVA DATA\\Java\\javafx-sdk-24.0.2\\lib\\javafx.controls.jar",
+            "h:\\JAVA DATA\\Java\\javafx-sdk-24.0.2\\lib\\javafx.fxml.jar",
+            "h:\\JAVA DATA\\Java\\javafx-sdk-24.0.2\\lib\\javafx.graphics.jar",
+            "h:\\JAVA DATA\\Java\\javafx-sdk-24.0.2\\lib\\javafx.media.jar",
+            "h:\\JAVA DATA\\Java\\javafx-sdk-24.0.2\\lib\\javafx.web.jar",
+            "h:\\JAVA DATA\\Java\\javafx-sdk-24.0.2\\lib\\jdk.jsobject.jar",
+            "h:\\JAVA DATA\\Java\\javafx-sdk-24.0.2\\lib\\jfx.incubator.input.jar",
+            "h:\\JAVA DATA\\Java\\javafx-sdk-24.0.2\\lib\\javafx.swing.jar"
+        ]
+    },
+    "java.format.settings.url": ".vscode/java-formatter.xml"
+}
